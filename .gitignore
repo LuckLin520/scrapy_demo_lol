@@ -1,0 +1,10 @@
+# OSX
+#
+.DS_Store
+
+# Xcode
+#
+
+hero_logo/
+loldocument/hero_detail.txt
+.idea
